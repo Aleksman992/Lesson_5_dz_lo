@@ -1,0 +1,81 @@
+@import "rull.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+*{
+  font-family: lato;
+  font-style: normal;
+  font-weight: normal;
+}
+
+header.header {
+  color:#1E212C ;
+  font-weight: 900;
+  font-size: 46px;
+  display: flex;
+  line-height: 130%;
+  margin: 20px 30px 40px 245px ;
+}
+
+img.emblem{
+  width: 50px;
+  height: 50px;
+  margin: 5px 30px 10px 1px ;
+}
+
+h1{
+  color: red;
+  margin: auto;
+  margin: 5px 30px 40px 5px;
+}
+h2{
+  color: blue;
+  font-weight: 700;
+  font-size: 26px ;
+  width: 810px;
+  margin: 10px 30px 10px 245px ;
+  text-align: center;
+}
+p {
+  color: #1E212C;
+  font-size: 20px;
+  margin: 10px 30px 10px 245px;
+}
+img{
+  width: 810px;
+  height: 460px;
+  margin: 40px 765px 60px 245px ;
+}
+.crazzi{
+  width: 410px;
+  height: 410px;
+  margin: 40px 765px 60px 245px ;
+}
+img.minivoznjak {
+  width: 810px;
+  height: 860px;
+  margin: 40px 765px 60px 245px ;  
+}
+div.introduction{
+  color: #424551;
+  overflow: visible;
+  width: 810px;
+  height: 280px;  
+}
+ul{
+  text-align: center;
+}
+h2.where-to-buy {
+  color: red;
+}
+p.where-to-buy {
+  background-color: lightsteelblue ; 
+  text-decoration: underline;
+}
+p.footer {
+  color: red ;
+  font-size: 26px;
+}
+p.footer2 {
+  text-shadow: 1px 1px 1px #1E212C;
+}
